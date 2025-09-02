@@ -1,0 +1,5 @@
+pytest
+python-docx
+reportlab
+PyPDF2
+requests
